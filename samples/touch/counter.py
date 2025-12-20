@@ -1,3 +1,6 @@
+# M5Stack Paper S3 Touch Sample Code (UIFlow2)
+# A simple counter app with +1, -1 and reset buttons to demonstrate touch functionality.
+
 import os, sys, io
 import M5
 from M5 import *
