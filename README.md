@@ -17,7 +17,8 @@ This repository contains my experiments with the M5Stack Paper S3 using MicroPyt
 
 ## Samples
 
-- **Touch Counter** (`samples/touch/counter.py`): A simple touch-based counter application demonstrating basic input handling on the Paper S3.
+- **Touch Counter** (`samples/touch.py`): A simple touch-based counter application demonstrating basic input handling on the Paper S3.
+- **Touch Helper** (`samples/touch_helper.py`): A reusable class for handling touch events, including area checking and touch release detection.
 
 ## Contributing
 
